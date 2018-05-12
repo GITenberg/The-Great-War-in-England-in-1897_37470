@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3141
     wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37470#The-Great-War-in-England-in-1897
 gutenberg_issued: '2011-09-18'
 gutenberg_type: Text
 identifiers:
